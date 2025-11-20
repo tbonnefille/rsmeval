@@ -9,16 +9,14 @@ function Nav() {
 
     return (
 
-        <div>
-
-<div> <h2>Nav</h2></div>
+  
         
         <div className="nav">
 
            
 
-            <NavLink className="menu" to="/ressources">Ressources</NavLink>
-            <NavLink className="menu" to="/events">Events</NavLink>
+            <NavLink className="menu" to="/ressources">Manage Ressources</NavLink>
+            <NavLink className="menu" to="/events"> Manage Events</NavLink>
             <NavLink className="menu" to="/notifications">Notifications</NavLink>
 
 
@@ -28,7 +26,7 @@ function Nav() {
 
         </div>
 
-</div>
+
     );
 
 }

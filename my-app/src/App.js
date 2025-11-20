@@ -8,7 +8,7 @@ import Home from './Containers/Home/Home';
 import Ressources from './Containers/Ressources/Ressources';
 import Notifications from './Containers/Notifications/Notifications';
 import Events from './Containers/Events/Events';
-import Footer from './Components/Footer/Footer';
+
 
 
 
@@ -32,7 +32,7 @@ function App() {
         <Route path="/events" element={<Events />} />
       </Routes>
 
-<Footer />
+
 
     </BrowserRouter>
 

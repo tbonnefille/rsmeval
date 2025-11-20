@@ -10,8 +10,23 @@ function Notifications() {
 
         <div className="notifications">
 
-            <h1>Notifications</h1>
 
+<div className='notifications-wrap'>
+
+
+    <div className='notifications-top'>
+
+            <h2>Notifications</h2>
+            <div>Mark all as read</div>
+
+</div>
+
+<div className='notifications-display'>
+
+
+</div>
+
+</div>
 
         </div>
 

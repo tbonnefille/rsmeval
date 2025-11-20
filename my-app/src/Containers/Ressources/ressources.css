@@ -1,0 +1,41 @@
+ .ressources-wrapper{
+
+  
+    display:flex;
+    justify-content: space-around;
+
+ 
+
+ padding: 2%;
+
+
+ }
+
+
+
+
+
+ .ressources-type {
+
+    border: 1px solid grey;
+   background-color:ivory;
+    width: 15%;
+   
+ }
+
+
+.ressources-ex {
+
+padding: 25px;
+
+
+}
+
+ .ressources-display 
+ {
+
+width:75%;
+background-color:azure;
+ border: 1px solid grey;
+
+ }

@@ -11,7 +11,30 @@ function Events() {
 
         <div className="events">
 
-            <h1>Events</h1>
+            <div className='events-top'>
+
+
+                <h2>Events</h2>
+                <div>Create Event</div>
+
+
+            </div>
+
+
+
+            <div className='events-display'>
+
+
+
+
+
+
+
+            </div>
+
+
+
+
 
 
         </div>

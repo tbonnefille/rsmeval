@@ -9,8 +9,8 @@ function Header() {
 
         <div className="header">
 
-         
-<Nav />
+
+            <Nav />
 
         </div>
 

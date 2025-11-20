@@ -1,0 +1,28 @@
+
+
+.notifications {
+
+display: flex;
+justify-content: center;
+padding-top: 50px;
+
+
+}
+
+
+.notifications-wrap {
+
+    width: 50%;
+}
+
+
+
+
+.notifications-top {
+
+    display: flex;
+    justify-content: space-between;
+   background-color: ivory;
+    border: 1px solid lightgrey;
+    padding:1%;
+}
