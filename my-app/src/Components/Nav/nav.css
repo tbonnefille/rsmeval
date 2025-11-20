@@ -1,0 +1,13 @@
+.nav {
+
+
+    display: flex;
+
+    background-color: bisque;
+}
+
+.menu {
+
+    margin-right: 2px;
+    padding: 5px;
+}
