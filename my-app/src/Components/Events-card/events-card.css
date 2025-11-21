@@ -1,0 +1,17 @@
+
+.events-card {
+
+    padding: 2%;
+    border-bottom: 1px grey solid;
+}
+
+
+.events-card-top {
+
+display: flex;
+justify-content: space-between;
+
+
+
+
+}

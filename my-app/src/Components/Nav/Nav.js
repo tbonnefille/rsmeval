@@ -13,15 +13,9 @@ function Nav() {
         
         <div className="nav">
 
-           
-
-            <NavLink className="menu" to="/ressources">Manage Ressources</NavLink>
+            <NavLink className="menu" to="/">Manage Ressources</NavLink>
             <NavLink className="menu" to="/events"> Manage Events</NavLink>
             <NavLink className="menu" to="/notifications">Notifications</NavLink>
-
-
-
-
 
 
         </div>
